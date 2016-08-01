@@ -1,2 +1,1 @@
-# Proxy_Server-Python
-A basic Proxy Server in Python
+<h3>A basic proxy server in Python</h3>
